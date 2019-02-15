@@ -1,6 +1,0 @@
-Note:
-
-Directories are denoted in blue color.
-Files are denoted in white.
-You will find similar color schemes in different flavors of Linux.
-Suppose, your "Music" folder has following sub-directories and files.
